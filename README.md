@@ -164,7 +164,7 @@ The project also strengthened my practical experience in using data visualizatio
 
 ## Dashboard Preview
 
-![Student Performance Dashboard](Student%20Performance%20Dashboard.png)
+![Student Performance Dashboard](Student%20performance%20Dashboard%20%283%29.png)
 
 ---
 
